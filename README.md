@@ -1,7 +1,7 @@
 # Titulo principal
 clase del martes 09 de julio
 
-## un subtitulo
+## Subtitulo
 Creando un archivo Readme, lo que vimos el día de hoy fue lo siguiente:
 
 1. Llegamos al edificio
