@@ -1,5 +1,5 @@
 # Titulo principal
-clase del martes 09 de julio
+Clase del martes 09 de julio
 
 ## Subtitulo
 Creando un archivo Readme, lo que vimos el día de hoy fue lo siguiente:
